@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/old-portfolio/static/css/main.679023ae.css",
+    "main.js": "/old-portfolio/static/js/main.95a09ec7.js",
+    "static/media/caveman.gif": "/old-portfolio/static/media/caveman.f03337ba2ed481f3d684.gif",
+    "static/media/aboutme.jpeg": "/old-portfolio/static/media/aboutme.c4667caec7ebdcff8d5e.jpeg",
+    "static/media/linkedinBlue.png": "/old-portfolio/static/media/linkedinBlue.c9552d2e8e9490b9b161.png",
+    "static/media/desktop.jpg": "/old-portfolio/static/media/desktop.9bc721bb1eae64027ac1.jpg",
+    "static/media/menu.jpg": "/old-portfolio/static/media/menu.2d7aecdf7c6f5a1c7877.jpg",
+    "static/media/whatsapp.png": "/old-portfolio/static/media/whatsapp.3242e6df62d440a084c0.png",
+    "static/media/linkedin.png": "/old-portfolio/static/media/linkedin.7fb09255eb00d1e94348.png",
+    "static/media/revicons.eot": "/old-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/old-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/old-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/old-portfolio/index.html",
+    "main.679023ae.css.map": "/old-portfolio/static/css/main.679023ae.css.map",
+    "main.95a09ec7.js.map": "/old-portfolio/static/js/main.95a09ec7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679023ae.css",
+    "static/js/main.95a09ec7.js"
+  ]
+}
