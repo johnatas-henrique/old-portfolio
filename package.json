@@ -20,10 +20,10 @@
     "styled-components": "^5.1.1",
     "sweetalert2": "^9.17.1"
   },
-  "homepage": "https://johnatas-henrique.github.io/",
+  "homepage": "https://johnatas-henrique.github.io/old-portfolio",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
