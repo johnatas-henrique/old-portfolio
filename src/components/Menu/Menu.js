@@ -4,27 +4,27 @@ import StyledMenu from './Menu.styled';
 
 const Menu = ({ openBurger }) => (
   <StyledMenu open={openBurger}>
-    <a href="/">
+    <a href="/old-portfolio/">
       <span role="img" aria-label="home">🏠</span>
       Home
     </a>
-    <a href="/about">
+    <a href="/old-portfolio/about">
       <span role="img" aria-label="sobre mim">😎</span>
       Sobre mim
     </a>
-    <a href="/skills">
+    <a href="/old-portfolio/skills">
       <span role="img" aria-label="habilidades">🎲</span>
       Habilidades
     </a>
-    <a href="/projects">
+    <a href="/old-portfolio/projects">
       <span role="img" aria-label="projetos">🔖</span>
       Projetos
     </a>
-    <a href="/contact">
+    <a href="/old-portfolio/contact">
       <span role="img" aria-label="contato">&#x1f4e9;</span>
       Contato
     </a>
-    <a href="/404page">
+    <a href="/old-portfolio/404page">
       <span role="img" aria-label="easter egg">😄</span>
       Easter Egg
     </a>

@@ -17,8 +17,8 @@ const Main = () => {
         <h1>Meu nome é Johnatas Henrique.</h1>
         <h1>Sou um desenvolvedor full stack júnior e moro em São Paulo.</h1>
       </div>
-      <Link to="/projects" className="button">Veja meus projetos</Link>
-      <Link to="/contact" className="button">Entre em contato</Link>
+      <Link to="/old-portfolio/projects" className="button">Veja meus projetos</Link>
+      <Link to="/old-portfolio/contact" className="button">Entre em contato</Link>
     </StyledMain>
   );
 };

@@ -22,7 +22,7 @@ const NotFound = () => {
           <h3>Você parece perdido...</h3>
           <h3>Que tal voltar a locais civilizados...</h3>
           <h3>Mas antes, olhe o que acontece com o homem das cavernas...</h3>
-          <Link className="link-btn" to="/">
+          <Link className="link-btn" to="/old-portfolio/">
             <button className="btn" type="button">Home</button>
           </Link>
         </div>

@@ -23,11 +23,11 @@ const App = () => {
           <Burger openBurger={openBurger} setOpenBurger={setOpenBurger} />
         </div>
         <Switch>
-          <Route path="/about" component={About} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/projects" component={Projects} />
-          <Route path="/skills" component={Skills} />
-          <Route exact path="/" component={Main} />
+          <Route path="/old-portfolio/about" component={About} />
+          <Route path="/old-portfolio/contact" component={Contact} />
+          <Route path="/old-portfolio/projects" component={Projects} />
+          <Route path="/old-portfolio/skills" component={Skills} />
+          <Route exact path="/old-portfolio" component={Main} />
           <Route component={NotFound} />
         </Switch>
         <Dock />
