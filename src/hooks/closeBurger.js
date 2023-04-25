@@ -6,7 +6,7 @@ const useOnClickOutside = (ref, handler) => {
       if (!ref.current || ref.current.contains(event.target)) {
         return null;
       }
-      handler(event);
+      return handler(event);
     };
     document.addEventListener('mousedown', listener);
     return () => {

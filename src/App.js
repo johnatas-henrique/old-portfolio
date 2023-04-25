@@ -5,7 +5,7 @@ import GlobalStyles from './css/global';
 import theme from './css/theme';
 import { PortfolioContext } from './context/Portfolio';
 import { Burger, Menu, Dock } from './components';
-import { useOnClickOutside } from './hooks';
+import useOnClickOutside from './hooks';
 import {
   Main, About, Contact, Projects, Skills, NotFound,
 } from './pages';

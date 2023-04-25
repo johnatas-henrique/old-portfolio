@@ -1,3 +1,3 @@
 import useOnClickOutside from './closeBurger';
 
-export { useOnClickOutside };
+export default useOnClickOutside;
